@@ -28,9 +28,16 @@ This project uses **Power BI** to organize sales data into an interactive dashbo
 
 ## 📈 Dashboard Preview
 
-Add your actual dashboard screenshot to the repository and update the image path below.
+1. Business Overview
+[![Business Overview](Dashboard%20Screenshots/Business%20Overview.png)](Dashboard%20Screenshots/Business%20Overview.png)
 
-![Sales Analytics Dashboard](images/dashboard-overview.png)
+3. Customer Analytics
+[![Customer Analytics](Dashboard%20Screenshots/Customer%20Analytics.png)](Dashboard%20Screenshots/Customer%20Analytics.png)
+
+3. Service Analytics
+[![Service Analytics](Dashboard%20Screenshots/Service%20Analytics.png)](Dashboard%20Screenshots/Service%20Analytics.png)
+
+
 
 ## 📊 Key Performance Indicators
 
