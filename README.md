@@ -22,8 +22,8 @@ This project uses **Power BI** to organize sales data into an interactive dashbo
 | Technology | Purpose |
 |---|---|
 | Power BI | Interactive dashboard development and reporting |
-| Power Query | Data cleaning and transformation, if used |
-| DAX | KPI calculations and business measures, if used |
+| Power Query | Data cleaning and transformation |
+| DAX | KPI calculations and business measures |
 | Excel / CSV | Data source, depending on the dataset |
 
 ## 📈 Dashboard Preview
@@ -111,9 +111,6 @@ Sales-analytics-and-BI-dashboard/
 **Kashish Pundir**
 
 B.Tech Computer Science and Engineering — Data Science
-
-- [GitHub Profile](https://github.com/KashishPundir)
-- [Sales Analytics and BI Dashboard Repository](https://github.com/KashishPundir/Sales-analytics-and-BI-dashboard)
 
 ---
 
